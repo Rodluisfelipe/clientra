@@ -58,4 +58,3 @@ if (require.main === module) {
     console.log(`Ambiente: ${process.env.NODE_ENV || 'development'}`);
   });
 } 
-} 
